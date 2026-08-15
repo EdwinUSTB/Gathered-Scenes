@@ -8,7 +8,6 @@
 - **本地调整作者：啊贵**
 - **原始 Skill 名称：`scenes-gathered-zine-v1-3`**
 - **原始项目：`gathered-scenes-zine-skill`**
-- **获取来源：**[GitCode 镜像仓库](https://gitcode.com/gh_mirrors/ga/gathered-scenes-zine-skill)
 
 Skill 的核心理念、视觉体系、工作流程、撕纸边界、结构性色彩、微型文字、输出格式和作者署名规则均来自 Zeejay0 的原始设计。
 
@@ -27,7 +26,7 @@ Skill 的核心理念、视觉体系、工作流程、撕纸边界、结构性�
 
 ## 本地调整
 
-本地修改由 **啊贵** 根据实际生成结果提出，Codex 协助写入并完成校验。修改日期为 **2026-08-09**。
+本地修改由 **啊贵** 根据实际生成结果提出，Codex 协助写入并完成校验。
 
 ### 1. 默认保持原照片比例
 
